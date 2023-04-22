@@ -1,0 +1,15 @@
+C:\Users\bowha\source\repos\Circleobjectlab\Circleobjectlab\bin\Debug\net6.0\Circleobjectlab.exe
+C:\Users\bowha\source\repos\Circleobjectlab\Circleobjectlab\bin\Debug\net6.0\Circleobjectlab.deps.json
+C:\Users\bowha\source\repos\Circleobjectlab\Circleobjectlab\bin\Debug\net6.0\Circleobjectlab.runtimeconfig.json
+C:\Users\bowha\source\repos\Circleobjectlab\Circleobjectlab\bin\Debug\net6.0\Circleobjectlab.dll
+C:\Users\bowha\source\repos\Circleobjectlab\Circleobjectlab\bin\Debug\net6.0\Circleobjectlab.pdb
+C:\Users\bowha\source\repos\Circleobjectlab\Circleobjectlab\obj\Debug\net6.0\Circleobjectlab.csproj.AssemblyReference.cache
+C:\Users\bowha\source\repos\Circleobjectlab\Circleobjectlab\obj\Debug\net6.0\Circleobjectlab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bowha\source\repos\Circleobjectlab\Circleobjectlab\obj\Debug\net6.0\Circleobjectlab.AssemblyInfoInputs.cache
+C:\Users\bowha\source\repos\Circleobjectlab\Circleobjectlab\obj\Debug\net6.0\Circleobjectlab.AssemblyInfo.cs
+C:\Users\bowha\source\repos\Circleobjectlab\Circleobjectlab\obj\Debug\net6.0\Circleobjectlab.csproj.CoreCompileInputs.cache
+C:\Users\bowha\source\repos\Circleobjectlab\Circleobjectlab\obj\Debug\net6.0\Circleobjectlab.dll
+C:\Users\bowha\source\repos\Circleobjectlab\Circleobjectlab\obj\Debug\net6.0\refint\Circleobjectlab.dll
+C:\Users\bowha\source\repos\Circleobjectlab\Circleobjectlab\obj\Debug\net6.0\Circleobjectlab.pdb
+C:\Users\bowha\source\repos\Circleobjectlab\Circleobjectlab\obj\Debug\net6.0\Circleobjectlab.genruntimeconfig.cache
+C:\Users\bowha\source\repos\Circleobjectlab\Circleobjectlab\obj\Debug\net6.0\ref\Circleobjectlab.dll
