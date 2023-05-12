@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bowha\\source\\repos\\Circleobjectlab\\Circleobjectlab\\Circleobjectlab.csproj",
+      "projectUniqueName": "C:\\Users\\bowha\\source\\repos\\circles\\circlelab\\Circleobjectlab\\Circleobjectlab.csproj",
       "projectName": "Circleobjectlab",
-      "projectPath": "C:\\Users\\bowha\\source\\repos\\Circleobjectlab\\Circleobjectlab\\Circleobjectlab.csproj",
+      "projectPath": "C:\\Users\\bowha\\source\\repos\\circles\\circlelab\\Circleobjectlab\\Circleobjectlab.csproj",
       "packagesPath": "C:\\Users\\bowha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bowha\\source\\repos\\Circleobjectlab\\Circleobjectlab\\obj\\",
+      "outputPath": "C:\\Users\\bowha\\source\\repos\\circles\\circlelab\\Circleobjectlab\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bowha\\AppData\\Roaming\\NuGet\\NuGet.Config",
